@@ -23,7 +23,7 @@ export default function Main() {
                   <div className="card-body">
                     <h5>Project</h5>
                     <p>Lorem ipsum dolor sit amet.</p>
-                    <button className='btn btn-outline-danger'>Demo</button>
+                    <a className='btn btn-outline-danger' href='https://e-commerce-01-mu.vercel.app/'>Demo</a>
                   </div>
               </article>
           </div>
@@ -33,7 +33,7 @@ export default function Main() {
                   <div className="card-body">
                     <h5>Project</h5>
                     <p>Lorem ipsum dolor sit amet.</p>
-                    <button className='btn btn-outline-danger'>Demo</button>
+                    <a className='btn btn-outline-danger' href='https://islamimad12.github.io/To-Do-List/'>Demo</a>
                   </div>
               </article>
           </div>
@@ -43,7 +43,7 @@ export default function Main() {
                   <div className="card-body">
                     <h5>Project</h5>
                     <p>Lorem ipsum dolor sit amet.</p>
-                    <button className='btn btn-outline-danger'>Demo</button>
+                    <a className='btn btn-outline-danger' href='https://prayer-now.vercel.app/'>Demo</a>
                   </div>
               </article>
           </div>
@@ -55,7 +55,7 @@ export default function Main() {
                   <div className="card-body">
                     <h5>Project</h5>
                     <p>Lorem ipsum dolor sit amet.</p>
-                    <button className='btn btn-outline-danger'>Demo</button>
+                    <a className='btn btn-outline-danger' href='https://another-taste.vercel.app/'>Demo</a>
                   </div>
               </article>
           </div>
@@ -65,7 +65,7 @@ export default function Main() {
                   <div className="card-body">
                     <h5>Project</h5>
                     <p>Lorem ipsum dolor sit amet.</p>
-                    <button className='btn btn-outline-danger'>Demo</button>
+                    <a className='btn btn-outline-danger' href='https://islamimad12.github.io/daniel/'>Demo</a>
                   </div>
               </article>
           </div>
